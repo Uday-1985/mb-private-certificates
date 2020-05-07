@@ -6,4 +6,5 @@ Accepted
 This is a dummy readme file.
 ## Consequences
 All the consequences if any will be written here.
-
+* This is the first consequence
+* This is the second consequence
